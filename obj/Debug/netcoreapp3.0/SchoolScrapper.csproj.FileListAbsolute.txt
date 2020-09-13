@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\SchoolScrapper.exe
+C:\Users\User\source\repos\SchoolScrapper\obj\Debug\netcoreapp3.0\SchoolScrapper.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SchoolScrapper\obj\Debug\netcoreapp3.0\SchoolScrapper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SchoolScrapper\obj\Debug\netcoreapp3.0\SchoolScrapper.AssemblyInfo.cs
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\SchoolScrapper.deps.json
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\SchoolScrapper.runtimeconfig.json
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\SchoolScrapper.runtimeconfig.dev.json
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\SchoolScrapper.dll
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\SchoolScrapper.pdb
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+C:\Users\User\source\repos\SchoolScrapper\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\source\repos\SchoolScrapper\obj\Debug\netcoreapp3.0\SchoolScrapper.csproj.CopyComplete
+C:\Users\User\source\repos\SchoolScrapper\obj\Debug\netcoreapp3.0\SchoolScrapper.dll
+C:\Users\User\source\repos\SchoolScrapper\obj\Debug\netcoreapp3.0\SchoolScrapper.pdb
